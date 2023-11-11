@@ -8,7 +8,7 @@ function App() {
     <div style={{ height: "100svh", width: "100svw", backgroundColor: "#E2E7EA" }}>
       <header className='w-full h-14 flex items-center justify-center'>
         <Link to="/">
-          <img src={logo} draggable={false} className='h-10 object-contain -mb-2' alt="" />
+          <img src={logo} draggable={false} className='h-8 object-contain -mb-2' alt="" />
         </Link>
       </header>
       <Routes>
